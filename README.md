@@ -1,4 +1,4 @@
-#Görüntü İşleme ile Araç Takibi
+# Görüntü İşleme ile Araç Takibi
 ###  Projenin genel tanımı ve amacı
 
 Proje konum ise görüntü işleme ile video üzerindeki araç takibi.

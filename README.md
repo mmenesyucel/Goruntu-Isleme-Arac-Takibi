@@ -24,3 +24,4 @@ Kütüphane olarak opencv kütüphanesini python'a yüklemeniz gerekiyor
 * **imshow("retvalbin", retvalbin)** threshold fonksiyonu ile Binary koda çeviriyoruz.
 * Bunların hepsini yaptıktan sonra **imshow("Sonuc", image)** fonksiyonu ile görüntüyü ekrana veriyoruz.
 
+![GitHub Logo](/images/kapak.png)

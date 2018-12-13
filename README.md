@@ -25,3 +25,4 @@ Kütüphane olarak opencv kütüphanesini python'a yüklemeniz gerekiyor
 * Bunların hepsini yaptıktan sonra **imshow("Sonuc", image)** fonksiyonu ile görüntüyü ekrana veriyoruz.
 
 ![kapak](C:\Users\Enes\Desktop\images\kapak.png)
+Format: ![Alt Text](https://github.com/mmenesyucel/Goruntu-Isleme-Arac-Takibi/edit/master/README.md)

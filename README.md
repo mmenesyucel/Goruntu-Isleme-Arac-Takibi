@@ -14,4 +14,18 @@ Kütüphane olarak opencv kütüphanesini python'a yüklemeniz gerekiyor
 * Öncelikle gerekli python ve gerekli kütüphane ve yazılımlarını indirdim.
 * Sonra opencv kütüphanesini araştırdım çünkü genellikle oradan çektiğimiz fonksiyonları kullanıyoruz.
 * Kullanacağım araçların geçtiği videoyu araştırdım.
+#### Kullanılan fonksiyonlar
+** imshow("Ana Görüntü",image) ile videoyu normal biçiminde gösteriyoruz.
+
+
+
+
+
+
+
+
+
+
+
+
 * Videoyu gri tonlamaya getirdim en son olarak da araçları seçebiliyordu proje ama seçilen araçların sayısını yazdıramadım.

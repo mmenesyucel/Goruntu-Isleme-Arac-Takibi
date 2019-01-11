@@ -24,7 +24,9 @@ Kütüphane olarak opencv kütüphanesini python'a yüklemeniz gerekiyor
 * **imshow("retvalbin", retvalbin)** threshold fonksiyonu ile Binary koda çeviriyoruz.
 * Bunların hepsini yaptıktan sonra **imshow("Sonuc", image)** fonksiyonu ile görüntüyü ekrana veriyoruz.
 
-![GitHub Logo](https://github.com/mmenesyucel/Goruntu-Isleme-Arac-Takibi/blob/master/seorce/image/arac_sayisi.jpg)
+![GitHub Logo](https://github.com/mmenesyucel/Goruntu-Isleme-Arac-Takibi/blob/master/seorce/image/kapak.png)
+  
+![GitHub Logo](https://github.com/mmenesyucel/Goruntu-Isleme-Arac-Takibi/blob/master/seorce/image/arac_sayisi.JPG)
   
 ### Projenin algoritması şu şekildedir:
 

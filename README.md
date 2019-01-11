@@ -24,8 +24,8 @@ Kütüphane olarak opencv kütüphanesini python'a yüklemeniz gerekiyor
 * **imshow("retvalbin", retvalbin)** threshold fonksiyonu ile Binary koda çeviriyoruz.
 * Bunların hepsini yaptıktan sonra **imshow("Sonuc", image)** fonksiyonu ile görüntüyü ekrana veriyoruz.
 
-![GitHub Logo](https://github.com/mmenesyucel/Goruntu-Isleme-Arac-Takibi/blob/master/seorce/image/kapak.png)
-
+![GitHub Logo](https://github.com/mmenesyucel/Goruntu-Isleme-Arac-Takibi/blob/master/seorce/image/arac_sayisi.jpg)
+  
 ### Projenin algoritması şu şekildedir:
 
 Uygulamada görüntü işleme teknikleri ile araç takibi yapıp sonrasında araç sayısını gösteriyorum. Şu an bir arayüz yok ama kod içerine gönderdiğimiz videoyu işleme alıp ve araç adedini belirler. Burada alınan videoyu öncelikle gri seviyeye çeviririz. Sonra hareket eden cisimleri belirliyoruz. Belirlenen cisimlerin üzerlerindeki noktaları gideriyoruz. Tekrardan belirlenen cisimlerin, çevresindeki noktaları da gideriyoruz. Daha sonra cisimler belli olamaya başlıyor ve burada da cisimleri kalınlaştırarak daha iyi bir şekilde belirtiyoruz. Belirttiğimiz cisimleri binary şekle dönüştürüyoruz ve sonrasında koordinatlarını verdiğimiz cisimleri 
